@@ -5,11 +5,9 @@
   },
   "avisos": [
     {
-      "id": "bienvenida-2026",
+      "id": "bienvenida-suite",
       "tipo": "info",
-      "texto": "Ya tienes la suite de herramientas. ¿Nos cuentas qué te parece?",
-      "enlace": "https://forms.gle/XXXXXXXX",
-      "enlace_texto": "Responder",
+      "texto": "¡Bienvenido/a al paquete de herramientas de la jurisdicción penal! Para cualquier incidencia o sugerencia, escríbeme a g.barrera@poderjudicial.es",
       "hasta": "2026-12-31"
     }
   ],
