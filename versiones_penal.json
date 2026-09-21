@@ -120,9 +120,9 @@
   "calculadora": {
     "version": "1.0.0",
     "url": "https://github.com/Gebape/herramientas-gbp/releases/download/calculadora-1.0.0/Calculadora.exe",
-    "sha256": "PEGA_AQUI_LA_HUELLA_DEL_EXE",
+    "sha256": "212788993aa7c79bd2de427faaa7912da16eb164e1b605de5684056b1ffea198",
     "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/calculadora-1.0.0/Guia_Calculadora.pdf",
-    "guia_sha256": "PEGA_AQUI_LA_HUELLA_DEL_PDF",
+    "guia_sha256": "561f2b1fc1631738a3f3087935ddebc337a1979cf85c4f4a820a020769bea308",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
       {
