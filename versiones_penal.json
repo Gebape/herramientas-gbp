@@ -1,0 +1,135 @@
+{
+  "lanzador": {
+    "version": "1.0.0",
+    "pagina": "https://github.com/Gebape/herramientas-gbp/releases"
+  },
+  "avisos": [
+    {
+      "id": "bienvenida-2026",
+      "tipo": "info",
+      "texto": "Ya tienes la suite de herramientas. ¿Nos cuentas qué te parece?",
+      "enlace": "https://forms.gle/XXXXXXXX",
+      "enlace_texto": "Responder",
+      "hasta": "2026-12-31"
+    }
+  ],
+  "herramientas": [
+    {
+      "clave": "conformidad",
+      "nombre": "Sentencias de conformidad",
+      "descripcion": "Redacta sentencias de conformidad, el auto de ejecutoria y los requerimientos al penado, en castellano y catalán.",
+      "color": "#111111",
+      "archivo": "Conformidades.exe",
+      "guia": "Guia_Conformidades.pdf"
+    },
+    {
+      "clave": "ejecucion",
+      "nombre": "Ejecución penal",
+      "descripcion": "Analiza la hoja histórico-penal del SIRAJ y redacta autos de suspensión, revocación y responsabilidad personal subsidiaria, con el informe de cancelabilidad de cada antecedente.",
+      "color": "#801B2A",
+      "archivo": "EjecucionPenal.exe",
+      "guia": "Guia_EjecucionPenal.pdf"
+    },
+    {
+      "clave": "prision",
+      "nombre": "Resoluciones situación personal",
+      "descripcion": "Autos de prisión provisional y de libertad para los supuestos más habituales: incomparecencia, ratificación, requisitoria y comparecencia del 505.",
+      "color": "#1F5EB8",
+      "archivo": "SituacionPersonal.exe",
+      "guia": "Guia_SituacionPersonal.pdf"
+    },
+    {
+      "clave": "sanciones",
+      "nombre": "Sanciones por incomparecencia",
+      "descripcion": "Redacta el acuerdo de multa al testigo o perito que no comparece (art. 420 LECrim y 193 LOPJ) y la providencia de incoación. Si se acuerda la conducción, genera también el auto.",
+      "color": "#1B6B1B",
+      "archivo": "Sanciones.exe",
+      "guia": "Guia_Sanciones.pdf"
+    },
+    {
+      "clave": "calculadora",
+      "nombre": "Calculadora de duración de juicios",
+      "descripcion": "Estima la duración de una vista según los criterios de señalamiento de la Junta de Jueces, con circunstancias propias que suman tiempo.",
+      "color": "#8A6A00",
+      "color_logo": "#D6A600",
+      "archivo": "Calculadora.exe",
+      "guia": "Guia_Calculadora.pdf",
+      "guarda": false
+    }
+  ],
+  "conformidad": {
+    "version": "1.0.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-1.0.0/Conformidades.exe",
+    "sha256": "0e2f250eb922af6b4956a15bcee87b68030517facafaf83bb0af6b20d70118ed",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-1.0.0/Guia_Conformidades.pdf",
+    "guia_sha256": "633c2d4501fdcd625a7645b46bff9879200bf5bc9f417fe8678da922ff127566",
+    "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
+    "historial": [
+      {
+        "version": "1.0.0",
+        "fecha": "2026-10-01",
+        "notas": "Primera versión publicada en la suite."
+      }
+    ]
+  },
+  "ejecucion": {
+    "version": "1.0.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-1.0.0/EjecucionPenal.exe",
+    "sha256": "PEGA_AQUI_LA_HUELLA_DEL_EXE",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-1.0.0/Guia_EjecucionPenal.pdf",
+    "guia_sha256": "PEGA_AQUI_LA_HUELLA_DEL_PDF",
+    "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
+    "historial": [
+      {
+        "version": "1.0.0",
+        "fecha": "2026-10-01",
+        "notas": "Primera versión publicada en la suite."
+      }
+    ]
+  },
+  "prision": {
+    "version": "1.0.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/prision-1.0.0/SituacionPersonal.exe",
+    "sha256": "PEGA_AQUI_LA_HUELLA_DEL_EXE",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/prision-1.0.0/Guia_SituacionPersonal.pdf",
+    "guia_sha256": "PEGA_AQUI_LA_HUELLA_DEL_PDF",
+    "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
+    "historial": [
+      {
+        "version": "1.0.0",
+        "fecha": "2026-10-01",
+        "notas": "Primera versión publicada en la suite."
+      }
+    ]
+  },
+  "sanciones": {
+    "version": "1.0.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/sanciones-1.0.0/Sanciones.exe",
+    "sha256": "PEGA_AQUI_LA_HUELLA_DEL_EXE",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/sanciones-1.0.0/Guia_Sanciones.pdf",
+    "guia_sha256": "PEGA_AQUI_LA_HUELLA_DEL_PDF",
+    "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
+    "historial": [
+      {
+        "version": "1.0.0",
+        "fecha": "2026-10-01",
+        "notas": "Primera versión publicada en la suite."
+      }
+    ]
+  },
+  "calculadora": {
+    "version": "1.0.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/calculadora-1.0.0/Calculadora.exe",
+    "sha256": "PEGA_AQUI_LA_HUELLA_DEL_EXE",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/calculadora-1.0.0/Guia_Calculadora.pdf",
+    "guia_sha256": "PEGA_AQUI_LA_HUELLA_DEL_PDF",
+    "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
+    "historial": [
+      {
+        "version": "1.0.0",
+        "fecha": "2026-10-01",
+        "notas": "Primera versión publicada en la suite."
+      }
+    ]
+  }
+}
