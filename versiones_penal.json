@@ -73,13 +73,18 @@
     ]
   },
   "ejecucion": {
-    "version": "1.0.0",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-1.0.0/EjecucionPenal.exe",
+    "version": "1.6.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-1.6.0/EjecucionPenal.exe",
     "sha256": "0788244e9f6d063e25aa568a528330de6483b81be9b93bb23aaf2e2af4458f8b",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-1.0.0/Guia_EjecucionPenal.pdf",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-1.6.0/Guia_EjecucionPenal.pdf",
     "guia_sha256": "28d4f0b46dd556437264072f3041330df58c661c7138d6e60813504aac73d855",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "1.6.0",
+        "fecha": "2026-09-21",
+        "notas": "Mejoras en el flujo de trabajo."
+      },
       {
         "version": "1.0.0",
         "fecha": "2026-09-21",
