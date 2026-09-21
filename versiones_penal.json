@@ -90,7 +90,7 @@
   "prision": {
     "version": "1.0.0",
     "url": "https://github.com/Gebape/herramientas-gbp/releases/download/prision-1.0.0/SituacionPersonal.exe",
-    "sha256": "PEGA_AQUI_LA_HUELLA_DEL_EXE",
+    "sha256": "9122fa1e573cf8ee8d7329bac2068a492f8330061b0fce303a1ec113fed6415a",
     "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/prision-1.0.0/Guia_SituacionPersonal.pdf",
     "guia_sha256": "PEGA_AQUI_LA_HUELLA_DEL_PDF",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
