@@ -53,6 +53,14 @@
       "archivo": "Calculadora.exe",
       "guia": "Guia_Calculadora.pdf",
       "guarda": false
+    },
+    {
+      "clave": "reforma",
+      "nombre": "Recursos de reforma (beta)",
+      "descripcion": "En pruebas: puede contener errores, revisa el auto antes de firmarlo. Analiza la resolución impugnada y compone el auto que resuelve el recurso de reforma, con sus antecedentes y la parte dispositiva transcrita.",
+      "color": "#5B3E96",
+      "archivo": "RecursosReforma.exe",
+      "guia": "Guia_RecursosReforma.pdf"
     }
   ],
   "conformidad": {
@@ -95,7 +103,7 @@
     "historial": [
       {
         "version": "1.0.0",
-        "fecha": "2026-10-01",
+        "fecha": "2026-09-30",
         "notas": "Primera versión publicada en la suite."
       }
     ]
@@ -110,7 +118,7 @@
     "historial": [
       {
         "version": "1.0.0",
-        "fecha": "2026-10-01",
+        "fecha": "2026-09-30",
         "notas": "Primera versión publicada en la suite."
       }
     ]
@@ -125,8 +133,23 @@
     "historial": [
       {
         "version": "1.0.0",
-        "fecha": "2026-10-01",
+        "fecha": "2026-09-30",
         "notas": "Primera versión publicada en la suite."
+      }
+    ]
+  },
+  "reforma": {
+    "version": "0.9.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/reforma-0.9.0/RecursosReforma.exe",
+    "sha256": "49a350de94f2255ee878b3b107de9a5ed84c3f9bafb380756533f6aa907b951e",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/reforma-0.9.0/Guia_RecursosReforma.pdf",
+    "guia_sha256": "e0c25addbb963b344f0d0fe705d6d4da2fc5d235e5d45031417c66fbbc8daade",
+    "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
+    "historial": [
+      {
+        "version": "0.9.0",
+        "fecha": "2026-09-30",
+        "notas": "Versión en pruebas. Puede contener errores."
       }
     ]
   }
