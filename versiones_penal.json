@@ -79,13 +79,18 @@
     ]
   },
   "ejecucion": {
-    "version": "1.0.0",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-1.0.0/EjecucionPenal.exe",
-    "sha256": "dd31d3be5c702402d51f2825765d6dbe2d16318699134384a16ce48088e4eb27",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-1.0.0/Guia_EjecucionPenal.pdf",
-    "guia_sha256": "28d4f0b46dd556437264072f3041330df58c661c7138d6e60813504aac73d855",
+    "version": "2.0.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-2.0.0/EjecucionPenal.exe",
+    "sha256": "d6ab525670233d2c439a8fa960561a350d8419fc89af1af6546a45b5ccf42cc0",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-2.0.0/Guia_EjecucionPenal.pdf",
+    "guia_sha256": "3bf22a1ad60abdb3cc58186724498e77c68dfc8f031b8820c29ef0380b48e946",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "2.0.0",
+        "fecha": "2026-09-30",
+        "notas": "Mejoras importantes en el análisis y en la redacción de las resoluciones."
+      },
       {
         "version": "1.0.0",
         "fecha": "2026-09-21",
