@@ -1,7 +1,9 @@
 {
   "lanzador": {
-    "version": "1.0.0",
-    "pagina": "https://github.com/Gebape/herramientas-gbp/releases"
+    "version": "1.2.0",
+    "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/lanzador-1.2.0/HerramientasGBP.exe",
+    "sha256": "a34efdcabcd0251c7b38b83905a916fe942d08e3c69f57bb545369cc68961fc0"
   },
   "avisos": [
     {
@@ -60,7 +62,8 @@
       "descripcion": "En pruebas: puede contener errores, revisa el auto antes de firmarlo. Analiza la resolución impugnada y compone el auto que resuelve el recurso de reforma, con sus antecedentes y la parte dispositiva transcrita.",
       "color": "#5B3E96",
       "archivo": "RecursosReforma.exe",
-      "guia": "Guia_RecursosReforma.pdf"
+      "guia": "Guia_RecursosReforma.pdf",
+      "ppp": false
     }
   ],
   "conformidad": {
@@ -89,7 +92,7 @@
       {
         "version": "2.0.0",
         "fecha": "2026-09-30",
-        "notas": "VERSIÓN EN PRUEBAS: Mejoras importantes en la interfaz y en la rapidez de procesamiento de datos."
+        "notas": "Mejoras importantes en el análisis y en la redacción de las resoluciones."
       },
       {
         "version": "1.0.0",
