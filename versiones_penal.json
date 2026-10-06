@@ -115,9 +115,9 @@
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
       {
-        "version": "1.0.0",
-        "fecha": "2026-09-30",
-        "notas": "Primera versión publicada en la suite."
+        "version": "1.1.0",
+        "fecha": "2026-10-06",
+        "notas": "Actualización: ventana se adapta al tamaño de la pantalla."
       }
     ]
   },
