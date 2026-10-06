@@ -68,9 +68,9 @@
   ],
   "conformidad": {
     "version": "3.0.0",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-1.0.0/Conformidades.exe",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.0.0/Conformidades.exe",
     "sha256": "000ee6fcb8dbe0b175e2e3f1e32699c914397a42626b482896be19963e08aa2c",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-1.0.0/Guia_Conformidades.pdf",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.0.0/Guia_Conformidades.pdf",
     "guia_sha256": "0d9ffb50ff91656f15212df7d0fe23d6598b9c635f751bd798590a67243ce24d",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
