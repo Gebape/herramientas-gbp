@@ -133,17 +133,27 @@
         "version": "1.1.0",
         "fecha": "2026-10-06",
         "notas": "Actualización: ventana se adapta al tamaño de la pantalla."
+      },
+      {
+        "version": "1.0.0",
+        "fecha": "2026-09-30",
+        "notas": "Primera versión publicada en la suite."
       }
     ]
   },
   "sanciones": {
-    "version": "1.0.0",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/sanciones-1.0.0/Sanciones.exe",
-    "sha256": "dc87d14af4742a7818fa272475842867600140727363d641ff1b9994d6a6ffda",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/sanciones-1.0.0/Guia_Sanciones.pdf",
+    "version": "1.1.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/sanciones-1.1.0/Sanciones.exe",
+    "sha256": "6602ca9d3308fefe630a9b91992be04cb4f7132a91f5cca82f5a3086d109632b",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/sanciones-1.1.0/Guia_Sanciones.pdf",
     "guia_sha256": "3555abdd6eb6b4e1caa22e7f968c184476ffdfa27ddc0079bc3711220f3c2c8b",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "1.1.0",
+        "fecha": "2026-10-06",
+        "notas": "Actualización: ventana se adapta al tamaño de la pantalla."
+      },
       {
         "version": "1.0.0",
         "fecha": "2026-09-30",
