@@ -84,7 +84,7 @@
   "ejecucion": {
     "version": "2.0.1",
     "url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-2.0.1/EjecucionPenal.exe",
-    "sha256": "804f67e9632711e7edaef10083d391438f8dd38568dcd8f8c96b68d8b0272706",
+    "sha256": "e21b4015011ec9bdc4dd2169a5994349986bd1e52703c1f809970ba3b7c38356",
     "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-2.0.1/Guia_EjecucionPenal.pdf",
     "guia_sha256": "0545e5f570ad46c4f35c3b25666dfc1c463babb48219146fa1f1b3b7650375f7",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
