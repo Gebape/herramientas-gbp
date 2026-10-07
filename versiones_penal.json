@@ -67,13 +67,18 @@
     }
   ],
   "conformidad": {
-    "version": "3.1.2",
+    "version": "3.2",
     "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.1.2/Conformidades.exe",
-    "sha256": "e8335d4540dde291ac908a448f7f6a05c3f06333ee35da8ea38dde275dfad263",
+    "sha256": "30a3925e3dc627e1059353b5e965c603b0755830e8b423b4f2595a29298792c1",
     "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.1.2/Guia_Conformidades.pdf",
     "guia_sha256": "c56a1b1df5a533f4500b2a3aff8c0a7a794f4759b74072da49af29df5e2b3d37",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "3.2",
+        "fecha": "2026-10-07",
+        "notas": "Click derecho para copiar, pegar y deshacer en todos los campos."
+      },
       {
         "version": "3.1.2",
         "fecha": "2026-10-06",
