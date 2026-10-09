@@ -67,7 +67,7 @@
     },
     {
       "clave": "preparación",
-      "nombre": "Preparador de juicios",
+      "nombre": "Preparador de juicios (beta)",
       "descripcion": "En pruebas: permite comproba si un juicio está preparado al permitir analizar citaciones, oficios...",
       "color": "#7FC7C9",
       "archivo": "Gestorcitaciones.exe",
