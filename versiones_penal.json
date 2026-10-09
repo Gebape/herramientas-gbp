@@ -69,7 +69,7 @@
       "clave": "preparación",
       "nombre": "Preparador de juicios",
       "descripcion": "En pruebas: permite comproba si un juicio está preparado al permitir analizar citaciones, oficios...",
-      "color": "#2B9BD",
+      "color": "#7FC7C9",
       "archivo": "Gestorcitaciones.exe",
       "guia": "Gestorcitaciones.pdf",
       "ppp": false
