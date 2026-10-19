@@ -116,13 +116,18 @@
     ]
   },
   "ejecucion": {
-    "version": "2.0.1",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-2.0.1/EjecucionPenal.exe",
+    "version": "2.1.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-2.1.0/EjecucionPenal.exe",
     "sha256": "d0eb4f9784cd580e83d1bb64b7fd7c404adff752a7c14820a2996d001c0a3e47",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-2.0.1/Guia_EjecucionPenal.pdf",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/ejecucion-2.1.0/Guia_EjecucionPenal.pdf",
     "guia_sha256": "0545e5f570ad46c4f35c3b25666dfc1c463babb48219146fa1f1b3b7650375f7",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "2.1.0",
+        "fecha": "2026-10-19",
+        "notas": "Corrección de errores y mejoras en la extracción de datos de la hoja de antecedentes."
+      },
       {
         "version": "2.0.1",
         "fecha": "2026-10-06",
