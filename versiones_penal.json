@@ -67,7 +67,7 @@
     },
     {
       "clave": "Atrium",
-      "nombre": "Atrium: preparador de juicios (En fase de pruebas)",
+      "nombre": "Atrium: preparador de juicios (NO DISPONIBLE - En fase de pruebas)",
       "descripcion": "En desarrollo. Permite comproba si un juicio está preparado al permitir analizar citaciones, oficios...",
       "color": "#7FC7C9",
       "archivo": "Gestorcitaciones.exe",
