@@ -76,13 +76,18 @@
     }
   ],
   "conformidad": {
-    "version": "3.2.1",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.2.1/Conformidades.exe",
-    "sha256": "13744cc0208c05b2b0da71c001433b7a7ccedd06757191685183f618ddef58b3",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.2.1/Guia_Conformidades.pdf",
-    "guia_sha256": "b7f72e3179ec17e52b89833ead35d9ef9da3edbb1324338b8306c3b454aeb540",
+    "version": "3.3.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.3.0/Conformidades.exe",
+    "sha256": "529a6cece2b623148ee662c9c6cf5a7b79fb0369f377133c5911c0d3383b56a2",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.3.0/Guia_Conformidades.pdf",
+    "guia_sha256": "f40228d589193eead4567fc2b794f0f41fec3359ada0562c43ce6c69755a95f9",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "3.3.0",
+        "fecha": "2026-10-21",
+        "notas": "Nuevo formato de estadillo SIRAJ"
+      },
       {
         "version": "3.2.1",
         "fecha": "2026-10-15",
