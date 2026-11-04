@@ -67,8 +67,8 @@
     },
     {
       "clave": "Atrium",
-      "nombre": "Atrium: preparador de juicios (NO DISPONIBLE - En fase de pruebas)",
-      "descripcion": "En desarrollo. Permite comproba si un juicio está preparado al permitir analizar citaciones, oficios...",
+      "nombre": "Atrium: preparador de juicios",
+      "descripcion": "En fase de pruebas: todavía no está disponible para descargar.",
       "color": "#7FC7C9",
       "archivo": "Gestorcitaciones.exe",
       "guia": "Gestorcitaciones.pdf",
@@ -76,8 +76,8 @@
     },
     {
       "clave": "Posticum",
-      "nombre": "Posticum: dación de cuenta (NO DISPONIBLE - En fase de pruebas)",
-      "descripcion": "En desarrollo. Permite resolver consultas de la oficina.",
+      "nombre": "Posticum: dación de cuenta",
+      "descripcion": "En fase de pruebas: todavía no está disponible para descargar.",
       "color": "#E0457B",
       "archivo": "Posticum.exe",
       "guia": "Posticum.pdf",
