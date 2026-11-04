@@ -67,7 +67,7 @@
     },
     {
       "clave": "Atrium",
-      "nombre": "Atrium: preparador de juicios",
+      "nombre": "Atrium: preparador de juicios (No disponible)",
       "descripcion": "En fase de pruebas: todavía no está disponible para descargar.",
       "color": "#7FC7C9",
       "archivo": "Gestorcitaciones.exe",
@@ -76,7 +76,7 @@
     },
     {
       "clave": "Posticum",
-      "nombre": "Posticum: dación de cuenta",
+      "nombre": "Posticum: dación de cuenta (No disponible)",
       "descripcion": "En fase de pruebas: todavía no está disponible para descargar.",
       "color": "#E0457B",
       "archivo": "Posticum.exe",
