@@ -73,6 +73,15 @@
       "archivo": "Gestorcitaciones.exe",
       "guia": "Gestorcitaciones.pdf",
       "ppp": false
+    },
+    {
+      "clave": "Posticum",
+      "nombre": "Posticum: dación de cuenta (NO DISPONIBLE - En fase de pruebas)",
+      "descripcion": "En desarrollo. Permite resolver consultas de la oficina.",
+      "color": "#E0457B",
+      "archivo": "Posticum.exe",
+      "guia": "Posticum.pdf",
+      "ppp": false
     }
   ],
   "conformidad": {
