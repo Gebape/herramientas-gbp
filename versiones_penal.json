@@ -85,13 +85,23 @@
     }
   ],
   "conformidad": {
-    "version": "3.3.3",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.3.3/Conformidades.exe",
-    "sha256": "e291f30b9d842e90f4d5e10d8c8eab16fa2436e83705fc28307c16cc92703b98",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.3.3/Guia_Conformidades.pdf",
-    "guia_sha256": "a0f17032b74ea13fde38d0467c9871f0573f6301355aa4fe70d84590bd8af5f9",
+    "version": "3.3.5",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.3.5/Conformidades.exe",
+    "sha256": "3f5e5995ab668fcb5fbded763c153a18fa79cdeb05533e2d4d0f8fef97ca8ff8",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.3.5/Guia_Conformidades.pdf",
+    "guia_sha256": "d3b2cd7c5014484501aaa8c8e383d875ffc43dc436375084cc93276778f03a0c",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "3.3.5",
+        "fecha": "2026-11-08",
+        "notas": "Corrección de errores."
+      },
+      {
+        "version": "3.3.4",
+        "fecha": "2026-11-07",
+        "notas": "Corrección de errores."
+      },
       {
         "version": "3.3.3",
         "fecha": "2026-11-03",
