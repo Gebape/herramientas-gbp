@@ -85,13 +85,18 @@
     }
   ],
   "conformidad": {
-    "version": "3.3.5",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.3.5/Conformidades.exe",
+    "version": "3.4.1",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.4.1/Conformidades.exe",
     "sha256": "3f5e5995ab668fcb5fbded763c153a18fa79cdeb05533e2d4d0f8fef97ca8ff8",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.3.5/Guia_Conformidades.pdf",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.4.1/Guia_Conformidades.pdf",
     "guia_sha256": "d3b2cd7c5014484501aaa8c8e383d875ffc43dc436375084cc93276778f03a0c",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "3.4.1",
+        "fecha": "2026-11-10",
+        "notas": "Nueva funcionalidad que permite extraer hechos probados de fotos o pdfs."
+      },
       {
         "version": "3.3.5",
         "fecha": "2026-11-08",
