@@ -85,13 +85,18 @@
     }
   ],
   "conformidad": {
-    "version": "3.4.1",
-    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.4.1/Conformidades.exe",
-    "sha256": "a9c88ff0f3a8319de22aca81f3ee60458930736c5b56227fc0125ce26c0bcde3",
-    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.4.1/Guia_Conformidades.pdf",
-    "guia_sha256": "735e8fa5333767f29c89041d8cc4a1a564f975f5806ba373dacecf06994fbfc1",
+    "version": "3.5.0",
+    "url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.5.0/Conformidades.exe",
+    "sha256": "1c7a6fb14b313baa7c10d54ca38cd35102ee01f3127603649243665d9477595d",
+    "guia_url": "https://github.com/Gebape/herramientas-gbp/releases/download/conformidad-3.5.0/Guia_Conformidades.pdf",
+    "guia_sha256": "bbfb92c5e8f12f9642dd7737ef8c439b4d0fd8e2b41d809fdff28ccb9cdf2daa",
     "pagina": "https://github.com/Gebape/herramientas-gbp/releases",
     "historial": [
+      {
+        "version": "3.5.0",
+        "fecha": "2026-11-11",
+        "notas": "Nueva funcionalidad que permite importar escritos de acusación del Ministerio Fiscal."
+      },
       {
         "version": "3.4.1",
         "fecha": "2026-11-10",
